@@ -3,7 +3,7 @@ Prepped Ubuntu 16.04 LTS for Ansible-Tower
 
 ## Some Directions
 * Modify the ip so you can use it
-* The lowest memory for Ansible-Tower is 2048, change it if you want it that low
+* The lowest memory for install is 4096, it will fail if it is any lower
 
 ```ruby
 Vagrant.configure("2") do |config|
