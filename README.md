@@ -48,3 +48,4 @@ end
 #     Run the setup.sh, ansible will take over from there and install everything
 #
 ```
+* You can request a trial license here [Ansible-Tower Trial Licaense](https://www.ansible.com/license)
